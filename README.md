@@ -1,6 +1,6 @@
 ### Hi 👋 , I'm Krishna Chaitanya
 
-#### A CS Undergrad working with Android development primarily and exploring other technologies along the way .
+#### A CS Undergrad currently working with Android development primarily and exploring other technologies along the way .
 
 - 🌱 I’m currently learning about open source and improving my knowledge on android dev
 - 👯 I’m looking to collaborate on open source projects
