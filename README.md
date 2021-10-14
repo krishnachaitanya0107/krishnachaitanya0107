@@ -2,7 +2,7 @@
 
 #### A CS Undergrad working with Android development primarily and exploring other technologies along the way .
 
-- 🌱 I’m currently learning Kotlin and UI-UX Design
+- 🌱 I’m currently learning about open source and improving my knowledge on android dev
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about __Android__ , __Kotlin__ , __Java__ and __Python__
 - 📫 How to reach me: 
