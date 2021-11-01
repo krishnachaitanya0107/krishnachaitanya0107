@@ -19,7 +19,7 @@
 <!--
 **krishnachaitanya0107/krishnachaitanya0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Top Languages Used by me on Github
+### Github Language stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachaitanya0107&layout=compact)](https://github.com/krishnachaitanya0107/github-readme-stats)
 
