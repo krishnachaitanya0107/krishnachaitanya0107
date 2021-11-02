@@ -23,6 +23,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachaitanya0107&layout=compact)](https://github.com/krishnachaitanya0107/github-readme-stats)
 
+### Github Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishnachaitanya0107&hide_border=true)
+
 
 <!--Here are some ideas to get you started:
 
