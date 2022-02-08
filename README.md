@@ -10,14 +10,11 @@
 - 🌱 I’m currently learning Jetpack Compose and Kotlin Multi-platformer.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Feel free to ask me about __Android__ , __Kotlin__ , __Java__ , __Git__ and __Python__
-- 📫 Let's Connect: 
-  - [**LinkedIn**](https://www.linkedin.com/in/krishna-chaitanya-0107/)
-  - [**Github**](https://www.github.com/krishnachaitanya0107)
 
-### Hacktober
-<p style="display:flex;">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2gbWOmEq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/alsz7ch59cn1v0q4wr5i.jpg" height=120px>
-</p>
+## Let's Connect:
+
+<a href="https://www.linkedin.com/in/krishna-chaitanya-0107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+<a href="https://www.github.com/krishnachaitanya0107" target="_blank"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="github"></a>
 
 ## Languages
 
@@ -42,3 +39,20 @@
 ## Github Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishnachaitanya0107&hide_border=true)
+
+<!--
+## Community
+
+<table>
+  <tr>
+    <td valign="top">
+        <img src="https://play-lh.googleusercontent.com/mR_90d6G3yG85wtSqaIm2NhHNTpXQFDdr0kGyU6JPJ0B0emm1LNmBI_rNcQ-khwcuMeE" height=200px/>  
+        <p>Google Crowdsource Contributor</p>
+      </a> 
+    </td>
+    <td valign="top">
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2gbWOmEq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/alsz7ch59cn1v0q4wr5i.jpg" height =200px/>
+        <p>Hacktober Fest 2021 Participant</p>
+    </td>
+  </tr>
+</table>-->
