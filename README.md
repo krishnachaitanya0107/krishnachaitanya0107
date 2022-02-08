@@ -1,6 +1,6 @@
-# Hey there 👋 ,
+# Hey there 👋
 
-#### I'm Krishna Chaitanya , a mobile technology enthusiast and want to explore all opportunities around it !
+#### I'm Krishna Chaitanya , a mobile technology enthusiast who wishes to explore all opportunities around it !
 
 ## About Me
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning Jetpack Compose and Kotlin Multi-platformer.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Feel free to ask me about __Android__ , __Kotlin__ , __Java__ , __Git__ and __Python__
-- 📫 How to reach me: 
-  - Mail - **krishnachaitanya010700@gmail.com**
-  - LinkedIn - [**linkedin.com/in/krishna-chaitanya-0107**](https://www.linkedin.com/in/krishna-chaitanya-0107/)
+- 📫 Let's Connect: 
+  - [**LinkedIn**](https://www.linkedin.com/in/krishna-chaitanya-0107/)
+  - [**Github**](https://www.github.com/krishnachaitanya0107)
 
 ### Hacktober
 <p style="display:flex;">
