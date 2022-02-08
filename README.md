@@ -1,62 +1,44 @@
-### Hi 👋 , I'm Krishna Chaitanya
+# Hey there 👋 ,
 
-#### A CS Undergrad currently working with Android development primarily and exploring other technologies along the way .
+#### I'm Krishna Chaitanya , a mobile technology enthusiast and want to explore all opportunities around it !
 
-- 🌱 I’m currently learning and improving my knowledge on android development
-- 👯 I’m looking forward to collaborate on open source projects
-- 💬 Ask me about __Android__ , __Kotlin__ , __Java__ and __Python__
+## About Me
+<img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+- 🚀 A Passionate Android Developer 
+- :trophy: Kotlin Fan boy 
+- 🌱 I’m currently learning Jetpack Compose and Kotlin Multi-platformer.
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- 💬 Feel free to ask me about __Android__ , __Kotlin__ , __Java__ , __Git__ and __Python__
 - 📫 How to reach me: 
   - Mail - **krishnachaitanya010700@gmail.com**
   - LinkedIn - [**linkedin.com/in/krishna-chaitanya-0107**](https://www.linkedin.com/in/krishna-chaitanya-0107/)
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
+### Hacktober
+<p style="display:flex;">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2gbWOmEq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/alsz7ch59cn1v0q4wr5i.jpg" height=120px>
 </p>
 
-### Github Profile Trophies 🏆
+## Languages
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=krishnachaitanya0107&no-frame=true&column=9"/>
+<img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Python-303030?style=for-the-badge&logo=Python" alt="Python">
 
-### Github Stats
+## Technologies
+
+<img src="https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=Android" alt="Android"> <img src="https://img.shields.io/badge/firebase-303030?style=for-the-badge&logo=firebase" alt="firebase">
+
+## Github Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=krishnachaitanya0107&count_private=true&show_icons=true)
 
-<!--
-**krishnachaitanya0107/krishnachaitanya0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Github Profile Trophies :trophy:
 
-### Github Language stats
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=krishnachaitanya0107&no-frame=true&column=9"/>
+
+## Github Language stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachaitanya0107&layout=compact)](https://github.com/krishnachaitanya0107/github-readme-stats)
 
-### Github Streak
+## Github Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishnachaitanya0107&hide_border=true)
-
-
-<!--Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
