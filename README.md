@@ -1,14 +1,12 @@
 # Hey there 👋
 
-#### I'm Krishna Chaitanya , a mobile technology enthusiast who wishes to explore all opportunities around it !
+#### I'm Krishna Chaitanya
 
 ## About Me
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🚀 A Passionate Android Developer 
+- 🚀 A Passionate Android Dev Hobbyist 
 - :trophy: Kotlin Fan boy 
-- 🌱 I’m currently learning Jetpack Compose and Kotlin Multi-platformer.
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Feel free to ask me about __Android__ , __Kotlin__ , __Java__ , __Git__ and __Python__
 
 ## Let's Connect:
