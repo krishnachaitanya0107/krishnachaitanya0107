@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white Hey there 👋
+Hey there 👋
 
 #### I'm Krishna Chaitanya
 
@@ -14,7 +14,7 @@ https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-a
 <a href="https://www.linkedin.com/in/krishna-chaitanya-0107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
 <a href="https://www.github.com/krishnachaitanya0107" target="_blank"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="github"></a>
 
-## Check out some of the apps i launched
+## Play Store profile
 
 <a
 href="https://play.google.com/store/apps/dev?id=5932965531006657139" target="_blank"><img 
