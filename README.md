@@ -1,4 +1,4 @@
-# Hey there 👋
+https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white Hey there 👋
 
 #### I'm Krishna Chaitanya
 
@@ -27,7 +27,8 @@ alt="Google play"></a>
 
 ## Technologies
 
-<img src="https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=Android" alt="Android"> <img src="https://img.shields.io/badge/firebase-303030?style=for-the-badge&logo=firebase" alt="firebase">
+<img src="https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=Android" alt="Android"> <img src="https://img.shields.io/badge/firebase-303030?style=for-the-badge&logo=firebase" alt="firebase"> <img src="
+https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 
 ## Github Stats
 
