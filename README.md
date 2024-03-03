@@ -14,6 +14,13 @@
 <a href="https://www.linkedin.com/in/krishna-chaitanya-0107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
 <a href="https://www.github.com/krishnachaitanya0107" target="_blank"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="github"></a>
 
+## Check out some of the apps i launched
+
+<a
+href="https://play.google.com/store/apps/dev?id=5932965531006657139" target="_blank"><img 
+src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"
+alt="Google play"></a>
+
 ## Languages
 
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Python-303030?style=for-the-badge&logo=Python" alt="Python">
