@@ -33,10 +33,6 @@ alt="Google play"></a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=krishnachaitanya0107&count_private=true&show_icons=true)
 
-## Github Profile Trophies :trophy:
-
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=krishnachaitanya0107&no-frame=true&column=9"/>
-
 ## Github Language stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachaitanya0107&layout=compact)](https://github.com/krishnachaitanya0107/github-readme-stats)
